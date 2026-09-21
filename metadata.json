@@ -1,0 +1,6 @@
+{
+  "name": "n8n Customer Support Agent",
+  "description": "Autonomous AI support engineer orchestrating n8n automated workflows, Gemini LLM reasoning, internal API diagnostic tools, and Cloud SQL PostgreSQL data persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
